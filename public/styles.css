@@ -56,3 +56,20 @@ body {
     border: none;
     color: white; 
 }
+
+.content-div {
+    width: 247px;
+    color:
+}
+
+.content-div > h2 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #F5F5F5;
+}
+
+.content-div > p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #DCDCDC;
+}

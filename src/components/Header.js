@@ -13,11 +13,11 @@ export default function Header(){
             <div id="btn-div">
                 <div id="buttons">
                     <div id="email-btn">
-                        <img src={emailIcon}/>
+                        <img src={emailIcon} alt="Email logo"/>
                         <p>Email</p>
                     </div>
-                     <div id="linkedin-btn">
-                        <img src={linkedinIcon}/>
+                    <div id="linkedin-btn">
+                        <img src={linkedinIcon} alt="Linkedin logo"/>
                         <p>Linkedin</p>
                     </div>
                 </div>

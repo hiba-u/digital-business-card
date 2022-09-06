@@ -76,13 +76,14 @@ body {
 
 #email-btn {
   background-color: white;
-  border: 1px solid #d1d5db;
   color: #23252c;
 }
 
 #email-btn img {
     width: 13px;
     height: 9.6px;
+    margin-top: 4px;
+    margin-right: -22px;
 }
 
 #linked-btn img {

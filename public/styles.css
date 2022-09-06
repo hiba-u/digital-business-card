@@ -1,75 +1,76 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
+  box-sizing: border-box;
+  margin: 0;
 }
 
 body {
-    background: #1A1B21;
-    font-family: 'Inter', sans-serif;
+  background: #1a1b21;
+  font-family: "Inter", sans-serif;
 }
 
 #laura-img {
-    width: 317px;
-    height: 317px;
+  width: 317px;
+  height: 317px;
 }
 
 #title {
-    color: white;
-    font-size: 25px;
-    font-weight: 700;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
 }
 
 #role {
-    color: #F3BF99;
-    font-size: 13px;
-    font-weight: 400;
+  color: #f3bf99;
+  font-size: 13px;
+  font-weight: 400;
 }
 
 #website {
-    color: #F5F5F5;
-    font-size: 11px;
+  color: #f5f5f5;
+  font-size: 11px;
 }
 
 #btn-div {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 #btn-div > div {
-    display: flex;
-    width: 115px;
-    height: 34px;
-    border-radius: 6px;
-    padding: 9px 13px;
-    font-size: 14px;
-    font-weight: 500;
+  display: flex;
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  padding: 9px 13px;
+  font-size: 14px;
+  font-weight: 500;
 }
 
 #email-btn {
-    background-color: white;
-    border: 1px solid #D1D5DB;
-    color: #23252C;
+  background-color: white;
+  border: 1px solid #d1d5db;
+  color: #23252c;
 }
 
 #linkedin-btn {
-    background-color: #5093E2;
-    border: none;
-    color: white; 
+  background-color: #5093e2;
+  border: none;
+  color: white;
 }
 
 .content-div {
-    width: 247px;
-    color:
+  width: 247px;
+  color: ;
 }
 
 .content-div > h2 {
-    font-size: 16px;
-    font-weight: 700;
-    color: #F5F5F5;
+  font-size: 16px;
+  font-weight: 700;
+  color: #f5f5f5;
 }
 
-.content-div > p{
-    font-size: 12px;
-    font-weight: 400;
-    color: #DCDCDC;
+.content-div > p {
+  font-size: 12px;
+  font-weight: 400;
+  color: #dcdcdc;
 }
+
